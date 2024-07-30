@@ -3,24 +3,24 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'UET Peshawar',
-                degree: 'BS, Computer System Engineering',
-                detail: "Bachelor's Degree in Computer System Engineering from UET Peshawar.",
-                year: '2018-2022'
+                title: 'Amity University Mumbai',
+                degree: 'B.Tech, Computer System & Engineering',
+                detail: "Bachelor's Degree in Computer System Engineering from Amity University, CGPA - 8.38",
+                year: '2021-2025'
             },
             {
                 id: 1,
-                title: 'Peshawar Model Degree College',
-                degree: 'HSSC, Pre Engineering',
-                detail: "Completed FSC part 1 and part 2 in Pre-Engineering from Peshawar Model Degree College.",
-                year: '2015-2017'
+                title: 'K.M Agrawal College',
+                degree: 'HSC',
+                detail: "Completed My 12th std from K.M. Agrawa' college with 91%.",
+                year: '2019-2021'
             },
             {
                 id: 2,
-                title: 'Falcon Academy',
-                degree: 'SSC, Science Subjects',
-                detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
-                year: '2013-2015'
+                title: 'Balak Mandir School',
+                degree: 'SSC',
+                detail: "Completed SSC  from Balak Mandir School",
+                year: '2019'
             },
         ]
     },
@@ -28,31 +28,23 @@ const background = [
         expCards: [
             {
                 id: 1,
-                title: 'JMM Technologies',
-                role: 'Frontend Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'Sahasrara Metatech Pvt. Ltd',
+                role: 'Developer Intern',
+                url: 'https://sahasrarameta.tech/',
+                desc: 'As a MERN stack intern, I developed full-stack web applications using MongoDB, Express.js React, and Node.js. I designed RESTful APIs, managed databases, created responsive UIs, and collaborated with senior developers to optimize performance and resolve issues. This role enhanced my web development skills and teamwork abilities.',
+                year: '06/2024 - Present',
+                location: 'Thane, Mumbai'
             },
             {
                 id: 2,
-                title: 'HauzaTech',
-                role: 'Internee',
-                url: 'no website',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'IEEE BOMBAY SECTION',
+                role: 'Intern',
+                url: 'https://ieeebombay.org/',
+                desc: 'As a Full Stack Developer Intern, I contributed to the development of dynamic web applications, employing a diverse tech stack to enhance both frontend and backend functionalities. Engaging in collaborative projects, I honed my skills in designing responsive user interfaces and implementing efficient server-side logic.',
+                year: '09/2023 - 11/2023',
+                location: 'Mumbai,Maharashtra'
             },
-            {
-                id: 3,
-                title: 'Encoder Bytes',
-                role: 'PHP Developer',
-                url: 'https://www.encoderbytes.com/',
-                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
-                year: '09/2020 - 02/2021',
-                location: 'Peshawar, Pakistan'
-            },
+            
 
         ]
     }

@@ -20,7 +20,8 @@ const Banner = () => {
                                                 options={{
                                                     strings:
                                                         ['MERN Stack Developer',
-                                                            'NexJs Developer'],
+                                                            'NextJs Developer',
+                                                        'React Developer'],
                                                     autoStart: true,
                                                     loop: true,
                                                 }}
@@ -38,7 +39,7 @@ const Banner = () => {
                 </div>
 
                 {/* details in row */}
-                <div className="grid grid-cols-2 gap-4 md:gap-0 md:flex items-center justify-between w-full px-4 xl:px-8 2xl:px-16">
+                {/* <div className="grid grid-cols-2 gap-4 md:gap-0 md:flex items-center justify-between w-full px-4 xl:px-8 2xl:px-16">
 
                     <div className="flex items-center gap-x-1">
                         <span className='text-base md:text-lg text-Green font-bold'>10+</span>
@@ -60,7 +61,7 @@ const Banner = () => {
                         <span className='text-xs text-Snow'>Opensource Projects</span>
                     </div>
 
-                </div>
+                </div> */}
             </div>
         </BannerLayout>
     )
